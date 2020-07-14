@@ -6,3 +6,8 @@
     ![](https://lh3.googleusercontent.com/-eVaI3S45uyE/Xw2rt0feIhI/AAAAAAAApDc/RMtL9tvHUQMT0a4AGC8zVvhPANmFTE5sgCK8BGAsYHg/s0/2020-07-14.png)
     * After Collecting Store it in any Folder as i show in Bellow.
     ![](https://lh3.googleusercontent.com/-xzKqhwX1RSU/Xw2sAZzQ6VI/AAAAAAAApDk/bFUAz1nSXPwl3neUETZOEVdh5cV7ZNWywCK8BGAsYHg/s0/2020-07-14.png)
+    
+    
+---
+Flow of Model
+![](https://lh3.googleusercontent.com/-V29SShXK-4c/Xw23k_SqnUI/AAAAAAAApD4/eC1KUvqsim8GiE3Clg_DivWgHutfkoVbQCK8BGAsYHg/s0/Images.png)
